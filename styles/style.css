@@ -33,6 +33,7 @@ body {
   background: var(--light-color);
   color: var(--dark-color);
   padding: 0.4rem 1.3rem;
+  margin-bottom: 1rem;
   font-size: 1rem;
   cursor: pointer;
   outline: none;
